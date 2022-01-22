@@ -157,10 +157,13 @@ const en = {
   harvestNodeRankUpButton:'Rank Up',
   harvestNodeRankUpFee:'Fee',
   harvestNodeUrl:'Node URL',
+
   harvestRankUpSupport:'Support',
+  harvestRegistrationButton:'Register',
   harvestRegistrationNote1:'After registration, the developer may contact you via Twitter to confirm your information. Please open your DMs!',
-  harvestRegistrationNote2:'(Note: Please Follow @shu801115',
+  harvestRegistrationNote2:'(Note: Please Follow @shu801115)',
   harvestTwitterAccount:'Twitter Account',
+  harvestUpdateButton:'Update',
   harvestWebPage:'Webpage',
   harvestWebPagePlaceHolder:'Node Introduction Page',
 
@@ -403,15 +406,16 @@ const en = {
   YesNoModalMosaicCreateMosaicHeader:'Create Mosaic',
   YesNoModalMosaicCreateMosaicBody:'Are you sure you want to create this mosaic?',
   YesNoModalNodeDeleteHeader:'Delete Node',
+
   YesNoModalNodeDeleteBody:'Are you sure you want to delete this node?',
   YesNoModalNodeRankUpHeader:'Node Rank Up',
   YesNoModalNodeRankUpBody:'Would you like to settle ',// +ooo xym?
   YesNoModalNodeRegisterHeader:'Register Node',
-  YesNoModalNodeRegisterBody1:'Are you sure you want to register?',
-  YesNoModalNodeRegisterBody2:'Rank Up Fee',
+  YesNoModalNodeRegisterBody:'Are you sure you want to register?',
   YesNoModalSendDonationHeader:'Send Donation',
   YesNoModalSendDonationBody:'Are you sure you want to donate?',
   YesNoModalSignHeader:'TX Signature',
   YesNoModalSignBody:'Are you sure you want to sign this aggregate bonded TX?',
+
 }
 export default en;
