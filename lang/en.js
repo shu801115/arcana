@@ -158,9 +158,11 @@ const en = {
   harvestNodeRankUpFee:'Rank up fee',
   harvestNodeUrl:'Node URL',
   harvestRankUpSupport:'Rank up support',
+  harvestRegistrationButton:'Register',
   harvestRegistrationNote1:'After registration, Arcana developer might contact you via twitter to confirm about node information, then your node will be listed in Arcana.',
   harvestRegistrationNote2:'(must follow @shu801115)',
   harvestTwitterAccount:'Twitter account',
+  harvestUpdateButton:'Update',
   harvestWebPage:'WEB page',
   harvestWebPagePlaceHolder:'Node introduction page',
 
@@ -405,10 +407,9 @@ const en = {
   YesNoModalNodeDeleteHeader:'Delete Node',
   YesNoModalNodeDeleteBody:'Are you sure to delete this node?',
   YesNoModalNodeRankUpHeader:'Node rank up',
-  YesNoModalNodeRankUpBody:'Would you like to settle ',// +ooo xym?
+  YesNoModalNodeRankUpBody:'Would you like to settle? => ',// +ooo xym?
   YesNoModalNodeRegisterHeader:'Register node',
-  YesNoModalNodeRegisterBody1:'Are you sure to register?',
-  YesNoModalNodeRegisterBody2:'rank-up fee',
+  YesNoModalNodeRegisterBody:'Are you sure to register?',
   YesNoModalSendDonationHeader:'Send donation',
   YesNoModalSendDonationBody:'Are you sure to donate',
   YesNoModalSignHeader:'Tx Signature',
