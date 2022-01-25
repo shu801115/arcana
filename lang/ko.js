@@ -186,7 +186,7 @@ const ko = {
   historyDeadline: "데드라인",
   historyHash: "해시",
   historyIssueAddress: "이슈 주소",
-  historyNotInAddressBook: "주의! 해당 주소는 주소 책에 없는 주소입니다.",
+  historyNotInAddressBook: "주의! 해당 주소는 주소록에는 없는 주소입니다.",
   historyNotSigned: "서명 안됨",
   historyNotSupport: "해당 트랜잭션은 현재 지원되지 않습니다.",
   historyPartial: "불완전",
@@ -326,7 +326,7 @@ const ko = {
   symbolAnnounceMultisigError: "오류: 다중서명 트랜잭션이 전송되지 않았습니다.",
 
   titleAddressAdd: "주소 추가",
-  titleAddressBook: "주소 책",
+  titleAddressBook: "주소록",
   titleAddressGroup: "주소 그룹",
   titleInvoiceQr: "인보이스 QR 코드",
   titleMnemonicQr: "Mnemonic QR 코드",
