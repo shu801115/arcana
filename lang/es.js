@@ -416,3 +416,4 @@ walletAddNote1:'La captura de pantalla ha sido guardada. Guarda también tu clav
   YesNoModalSignBody:'¿Estás seguro que deseas firmar este TX agregado añadida?',
 }
 export default es;
+
